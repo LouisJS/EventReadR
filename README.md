@@ -1,5 +1,5 @@
 # EventReadr
-Small clients listing the most recent activities on Github
+Small clients listing the most recent activities on Github using React / Redux
 
 # Install Process
 - clone the repository to your local machine ( git clone https://github.com/LouisJS/EventReadr.git )
